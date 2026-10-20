@@ -1,4 +1,4 @@
-# Stability of Modular Community Networks with Random Module Sizes
+# May- Wigner Stability of Modular Networks
 
 Spectral study of ecological community matrices whose interaction network is organised into modules, with module sizes drawn from a distribution. It generalises the two-module construction of Grilli, Rogers and Allesina (2016) to an arbitrary number of modules.
 
